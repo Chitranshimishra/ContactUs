@@ -1,0 +1,2832 @@
+</head>
+
+<body>
+
+
+<button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+<div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+
+
+    <div class="wrapper home-5">
+        <!--Header Area Start-->
+@@ -83,56 +71,89 @@
+           <div class="header-container">
+
+
+<button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+
+
+               <!--Header Top Area Start--> 
+              <div class="header-top-area">
+                   <div class="container">
+                       <div class="row">
+ <!--Header Top Left Area Start-->
+                            <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+                               <div class="header-top-menu">
+                            <div class="col-md-3 col-sm-4 col-xs-12 hidden-xs">                               <div class="header-top-menu">
+                                   <ul>
+                                       <li>
+                                          <i class="fa fa-envelope-o"> hupadhyay1005@gmail.com | </i><i class="fa fa-phone"> +91-9462642837 </i>
+
+                                       </li>
+
+                                   </ul>
+                               </div>
+
+                           </div>
+
+						   <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+						    <div class="col-md-2 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+
+                                   <ul>
+										<li>
+										                                           <button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+                                       </li>
+
+                                   </ul>
+                               </div>
+                           </div>		
+						    <!--Header Top Right Area Start-->
+                           <div class="col-md-8 col-sm-8 hidden-xs text-right">
+
+                           </div>
+						   <div class="col-md-3 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+                                   <ul>
+                                       <li>
+										                                            <button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+                                       </li>
+
+
+                                   </ul>
+                               </div>
+
+                           </div>
+
+						 <div class="col-md-3 col-sm-8 hidden-xs text-right">
+                               <div class="header-top-menu">
+                                   <ul>
+                                       <li class="support"><span><a id="signup" href = "signup.html">Sign Up | </a><a id="login"href = "login.html">Login</a></span></li>
+
+                                   </ul>
+                               </div>
+                           </div>
+                           <!--Header Top Right Area End-->
+                           </div>   
+						   <!--Header Top Right Area End-->
+               <!--Header Top Area End-->
+               <!--Header Middel Area Start-->
+               <div class="header-middel-area">
+                   <div class="container">
+                       <div class="row">
+                           <!--Logo Start-->
+                           <div class="col-md-9 col-sm-9 col-xs-4">
+                           <div class="col-md-7 col-sm-9 col-xs-1">
+                               <div class="logo">
+                                   <img src="img/project-p2.png" width="14%" class="logo-img"
+                                   <img src="img/project-p2.png" width="100%" class="logo-img"
+                                    alt=""></a>
+
+                               </div>
+                           </div>
+
+                           <!--Logo End-->
+
+                      <div class="col-md-2 col-sm-9 col-xs-1 text-center">
+                               <div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+                           </div>
+                           <!--Mini Cart Start-->
+                           <div class="col-md-3 col-sm-4 col-xs-8">
+                           <div class="col-md-3 col-sm-4 col-xs-8 text-right">
+                               <div class="mini-cart-area">
+                                   <ul>
+
+                                       <li>
+                                                                                  <a href="mycart.php"><i class="ion-android-cart"></i><span class="cart-total"> </a>
+                                                                               </li>
+@@ -143,8 +164,7 @@
+                       </div>
+                   </div>
+               </div>
+               <!--Header Middel Area End-->
+               <!--Header bottom Area Start-->
+               <!--Header Middel Area End-->               <!--Header bottom Area Start-->
+               <div class="header-bottom-area header-sticky">
+                   <div class="container">
+                       <div class="row">
+  98  category/category1.html 
+@@ -35,90 +35,110 @@
+<!-- Owl Carousel CSS ( for display of featured products)-->
+    <link rel="stylesheet" href="../css/owl.carousel.min.css">
+    </head>
+
+<body>
+
+
+<button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+<div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+
+
+    <div class="wrapper home-5">
+<!--Header Area Start-->
+        <!--Header Area Start-->
+        <header>
+
+           <div class="header-container">
+
+
+<button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+
+
+<!--Header Top Area Start--> 
+               <!--Header Top Area Start--> 
+              <div class="header-top-area">
+                   <div class="container">
+                       <div class="row">
+<!--Header Top Left Area Start-->
+                            <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+                               <div class="header-top-menu">
+ <!--Header Top Left Area Start-->
+                            <div class="col-md-3 col-sm-4 col-xs-12 hidden-xs">                               <div class="header-top-menu">
+                                   <ul>
+                                       <li>
+                                          <i class="fa fa-envelope-o"> hupadhyay1005@gmail.com | </i><i class="fa fa-phone"> +91-9462642837 </i>
+
+                                       </li>
+
+                                   </ul>
+                               </div>
+
+                           </div>
+						    <div class="col-md-2 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+                                   <ul>
+										<li>
+										                                           <button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+                                       </li>
+
+                                   </ul>
+                               </div>
+
+                           </div>
+
+						   <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+						   <div class="col-md-3 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+
+                                   <ul>
+                                       <li>
+										                                            <button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+                                       </li>
+
+
+                                   </ul>
+                               </div>
+                           </div>		
+<!--Header Top Right Area Start-->
+                           <div class="col-md-8 col-sm-8 hidden-xs text-right">
+
+                           </div>
+
+						 <div class="col-md-3 col-sm-8 hidden-xs text-right">
+                               <div class="header-top-menu">
+                                   <ul>
+                                       <li class="support"><span><a id="signup" href = "../signup.html">Sign Up | </a><a id="login"href = "../login.html">Login</a></span></li>
+                                       <li class="support"><span><a id="signup" href = "signup.html">Sign Up | </a><a id="login"href = "login.html">Login</a></span></li>
+
+                                   </ul>
+                               </div>
+                           </div>
+<!--Header Top Right Area End-->
+<!--Header Top Area End-->
+<!--Header Middel Area Start-->
+                           </div>   
+						   <!--Header Top Right Area End-->
+               <!--Header Top Area End-->
+               <!--Header Middel Area Start-->
+               <div class="header-middel-area">
+                   <div class="container">
+                       <div class="row">
+<!--Logo Start-->
+                           <div class="col-md-9 col-sm-9 col-xs-4">
+                           <!--Logo Start-->
+                           <div class="col-md-7 col-sm-9 col-xs-1">
+                               <div class="logo">
+                                   <img src="../img/project-p2.png" width="14%" class="logo-img"
+                                   <img src="img/project-p2.png" width="100%" class="logo-img"
+                                    alt=""></a>
+
+                               </div>
+                           </div>
+<!--Logo End-->
+
+<!--Mini Cart Start-->
+                      <div class="col-md-3 col-sm-4 col-xs-8">
+
+                           <!--Logo End-->
+                      <div class="col-md-2 col-sm-9 col-xs-1 text-center">
+                               <div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+                           </div>
+                           <!--Mini Cart Start-->
+                           <div class="col-md-3 col-sm-4 col-xs-8 text-right">
+                               <div class="mini-cart-area">
+                                   <ul>
+
+                                       <li>
+                                                                                  <a href="mycart.php"><i class="ion-android-cart"></i><span class="cart-total"> </a>
+                                                                               </li>
+                                   </ul>
+                               </div>
+                           </div>
+<!--Mini Cart End-->
+                           <!--Mini Cart End-->
+                       </div>
+                   </div>
+               </div>
+<!--Header Middel Area End-->
+<!--Header bottom Area Start-->
+               <!--Header Middel Area End--><!--Header bottom Area Start-->
+               <div class="header-bottom-area header-sticky">
+                   <div class="container">
+                       <div class="row">
+  98  category/category2.html 
+@@ -55,90 +55,110 @@
+
+
+</head>
+
+<body>
+
+
+<button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+<div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+
+
+    <div class="wrapper home-5">
+<!--Header Area Start-->
+        <!--Header Area Start-->
+        <header>
+
+           <div class="header-container">
+
+
+<button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+
+
+<!--Header Top Area Start--> 
+               <!--Header Top Area Start--> 
+              <div class="header-top-area">
+                   <div class="container">
+                       <div class="row">
+<!--Header Top Left Area Start-->
+                            <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+                               <div class="header-top-menu">
+ <!--Header Top Left Area Start-->
+                            <div class="col-md-3 col-sm-4 col-xs-12 hidden-xs">                               <div class="header-top-menu">
+                                   <ul>
+                                       <li>
+                                          <i class="fa fa-envelope-o"> hupadhyay1005@gmail.com | </i><i class="fa fa-phone"> +91-9462642837 </i>
+
+                                       </li>
+
+                                   </ul>
+                               </div>
+
+                           </div>
+						    <div class="col-md-2 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+                                   <ul>
+										<li>
+										                                           <button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+                                       </li>
+
+                                   </ul>
+                               </div>
+
+                           </div>
+
+						   <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+						   <div class="col-md-3 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+
+                                   <ul>
+                                       <li>
+										                                            <button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+                                       </li>
+
+
+                                   </ul>
+                               </div>
+                           </div>		
+<!--Header Top Right Area Start-->
+                           <div class="col-md-8 col-sm-8 hidden-xs text-right">
+
+                           </div>
+
+						 <div class="col-md-3 col-sm-8 hidden-xs text-right">
+                               <div class="header-top-menu">
+                                   <ul>
+                                       <li class="support"><span><a id="signup" href = "../signup.html">Sign Up | </a><a id="login"href = "../login.html">Login</a></span></li>
+                                       <li class="support"><span><a id="signup" href = "signup.html">Sign Up | </a><a id="login"href = "login.html">Login</a></span></li>
+
+                                   </ul>
+                               </div>
+                           </div>
+<!--Header Top Right Area End-->
+<!--Header Top Area End-->
+<!--Header Middel Area Start-->
+                           </div>   
+						   <!--Header Top Right Area End-->
+               <!--Header Top Area End-->
+               <!--Header Middel Area Start-->
+               <div class="header-middel-area">
+                   <div class="container">
+                       <div class="row">
+<!--Logo Start-->
+                           <div class="col-md-9 col-sm-9 col-xs-4">
+                           <!--Logo Start-->
+                           <div class="col-md-7 col-sm-9 col-xs-1">
+                               <div class="logo">
+                                   <img src="../img/project-p2.png" width="14%" class="logo-img"
+                                   <img src="img/project-p2.png" width="100%" class="logo-img"
+                                    alt=""></a>
+
+                               </div>
+                           </div>
+<!--Logo End-->
+
+<!--Mini Cart Start-->
+                       <div class="col-md-3 col-sm-4 col-xs-8">
+
+                           <!--Logo End-->
+                      <div class="col-md-2 col-sm-9 col-xs-1 text-center">
+                               <div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+                           </div>
+                           <!--Mini Cart Start-->
+                           <div class="col-md-3 col-sm-4 col-xs-8 text-right">
+                               <div class="mini-cart-area">
+                                   <ul>
+
+                                       <li>
+                                                                                  <a href="mycart.php"><i class="ion-android-cart"></i><span class="cart-total"> </a>
+                                                                               </li>
+                                   </ul>
+                               </div>
+                           </div>
+<!--Mini Cart End-->
+                           <!--Mini Cart End-->
+                       </div>
+                   </div>
+               </div>
+<!--Header Middel Area End-->
+<!--Header bottom Area Start-->
+               <!--Header Middel Area End--><!--Header bottom Area Start-->
+               <div class="header-bottom-area header-sticky">
+                   <div class="container">
+                       <div class="row">
+  98  category/category3.html 
+@@ -57,90 +57,110 @@
+
+
+</head>
+
+<body>
+
+
+<button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+<div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+
+
+    <div class="wrapper home-5">
+<!--Header Area Start-->
+        <!--Header Area Start-->
+        <header>
+
+           <div class="header-container">
+
+
+<button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+
+
+<!--Header Top Area Start--> 
+               <!--Header Top Area Start--> 
+              <div class="header-top-area">
+                   <div class="container">
+                       <div class="row">
+<!--Header Top Left Area Start-->
+                            <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+                               <div class="header-top-menu">
+ <!--Header Top Left Area Start-->
+                            <div class="col-md-3 col-sm-4 col-xs-12 hidden-xs">                               <div class="header-top-menu">
+                                   <ul>
+                                       <li>
+                                          <i class="fa fa-envelope-o"> hupadhyay1005@gmail.com | </i><i class="fa fa-phone"> +91-9462642837 </i>
+
+                                       </li>
+
+                                   </ul>
+                               </div>
+
+                           </div>
+						    <div class="col-md-2 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+                                   <ul>
+										<li>
+										                                           <button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+                                       </li>
+
+                                   </ul>
+                               </div>
+
+                           </div>
+
+						   <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+						   <div class="col-md-3 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+
+                                   <ul>
+                                       <li>
+										                                            <button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+                                       </li>
+
+
+                                   </ul>
+                               </div>
+                           </div>		
+<!--Header Top Right Area Start-->
+                           <div class="col-md-8 col-sm-8 hidden-xs text-right">
+
+                           </div>
+
+						 <div class="col-md-3 col-sm-8 hidden-xs text-right">
+                               <div class="header-top-menu">
+                                   <ul>
+                                       <li class="support"><span><a id="signup" href = "../signup.html">Sign Up | </a><a id="login"href = "../login.html">Login</a></span></li>
+                                       <li class="support"><span><a id="signup" href = "signup.html">Sign Up | </a><a id="login"href = "login.html">Login</a></span></li>
+
+                                   </ul>
+                               </div>
+                           </div>
+<!--Header Top Right Area End-->
+<!--Header Top Area End-->
+<!--Header Middel Area Start-->
+                           </div>   
+						   <!--Header Top Right Area End-->
+               <!--Header Top Area End-->
+               <!--Header Middel Area Start-->
+               <div class="header-middel-area">
+                   <div class="container">
+                       <div class="row">
+<!--Logo Start-->
+                           <div class="col-md-9 col-sm-9 col-xs-4">
+                           <!--Logo Start-->
+                           <div class="col-md-7 col-sm-9 col-xs-1">
+                               <div class="logo">
+                                   <img src="../img/project-p2.png" width="14%" class="logo-img"
+                                   <img src="img/project-p2.png" width="100%" class="logo-img"
+                                    alt=""></a>
+
+                               </div>
+                           </div>
+<!--Logo End-->
+
+<!--Mini Cart Start-->
+                        <div class="col-md-3 col-sm-4 col-xs-8">
+
+                           <!--Logo End-->
+                      <div class="col-md-2 col-sm-9 col-xs-1 text-center">
+                               <div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+                           </div>
+                           <!--Mini Cart Start-->
+                           <div class="col-md-3 col-sm-4 col-xs-8 text-right">
+                               <div class="mini-cart-area">
+                                   <ul>
+
+                                       <li>
+                                                                                  <a href="mycart.php"><i class="ion-android-cart"></i><span class="cart-total"> </a>
+                                                                               </li>
+                                   </ul>
+                               </div>
+                           </div>
+<!--Mini Cart End-->
+                           <!--Mini Cart End-->
+                       </div>
+                   </div>
+               </div>
+<!--Header Middel Area End-->
+<!--Header bottom Area Start-->
+               <!--Header Middel Area End--><!--Header bottom Area Start-->
+               <div class="header-bottom-area header-sticky">
+                   <div class="container">
+                       <div class="row">
+  98  category/category4.html 
+@@ -54,90 +54,110 @@
+
+
+</head>
+
+<body>
+
+
+<button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+<div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+
+
+    <div class="wrapper home-5">
+<!--Header Area Start-->
+        <!--Header Area Start-->
+        <header>
+
+           <div class="header-container">
+
+
+<button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+
+
+<!--Header Top Area Start--> 
+               <!--Header Top Area Start--> 
+              <div class="header-top-area">
+                   <div class="container">
+                       <div class="row">
+<!--Header Top Left Area Start-->
+                            <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+                               <div class="header-top-menu">
+ <!--Header Top Left Area Start-->
+                            <div class="col-md-3 col-sm-4 col-xs-12 hidden-xs">                               <div class="header-top-menu">
+                                   <ul>
+                                       <li>
+                                          <i class="fa fa-envelope-o"> hupadhyay1005@gmail.com | </i><i class="fa fa-phone"> +91-9462642837 </i>
+
+                                       </li>
+
+                                   </ul>
+                               </div>
+
+                           </div>
+						    <div class="col-md-2 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+                                   <ul>
+										<li>
+										                                           <button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+                                       </li>
+
+                                   </ul>
+                               </div>
+
+                           </div>
+
+						   <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+						   <div class="col-md-3 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+
+                                   <ul>
+                                       <li>
+										                                            <button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+                                       </li>
+
+
+                                   </ul>
+                               </div>
+                           </div>		
+<!--Header Top Right Area Start-->
+                           <div class="col-md-8 col-sm-8 hidden-xs text-right">
+
+                           </div>
+
+						 <div class="col-md-3 col-sm-8 hidden-xs text-right">
+                               <div class="header-top-menu">
+                                   <ul>
+                                       <li class="support"><span><a id="signup" href = "../signup.html">Sign Up | </a><a id="login"href = "../login.html">Login</a></span></li>
+                                       <li class="support"><span><a id="signup" href = "signup.html">Sign Up | </a><a id="login"href = "login.html">Login</a></span></li>
+
+                                   </ul>
+                               </div>
+                           </div>
+<!--Header Top Right Area End-->
+<!--Header Top Area End-->
+<!--Header Middel Area Start-->
+                           </div>   
+						   <!--Header Top Right Area End-->
+               <!--Header Top Area End-->
+               <!--Header Middel Area Start-->
+               <div class="header-middel-area">
+                   <div class="container">
+                       <div class="row">
+<!--Logo Start-->
+                           <div class="col-md-9 col-sm-9 col-xs-4">
+                           <!--Logo Start-->
+                           <div class="col-md-7 col-sm-9 col-xs-1">
+                               <div class="logo">
+                                   <img src="../img/project-p2.png" width="14%" class="logo-img"
+                                   <img src="img/project-p2.png" width="100%" class="logo-img"
+                                    alt=""></a>
+
+                               </div>
+                           </div>
+<!--Logo End-->
+
+<!--Mini Cart Start-->
+                         <div class="col-md-3 col-sm-4 col-xs-8">
+
+                           <!--Logo End-->
+                      <div class="col-md-2 col-sm-9 col-xs-1 text-center">
+                               <div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+                           </div>
+                           <!--Mini Cart Start-->
+                           <div class="col-md-3 col-sm-4 col-xs-8 text-right">
+                               <div class="mini-cart-area">
+                                   <ul>
+
+                                       <li>
+                                                                                  <a href="mycart.php"><i class="ion-android-cart"></i><span class="cart-total"> </a>
+                                                                               </li>
+                                   </ul>
+                               </div>
+                           </div>
+<!--Mini Cart End-->
+                           <!--Mini Cart End-->
+                       </div>
+                   </div>
+               </div>
+<!--Header Middel Area End-->
+<!--Header bottom Area Start-->
+               <!--Header Middel Area End--><!--Header bottom Area Start-->
+               <div class="header-bottom-area header-sticky">
+                   <div class="container">
+                       <div class="row">
+  115  checkout.html 
+@@ -96,89 +96,110 @@
+}
+    </style>
+</head>
+
+<body>
+
+<button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+<div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+
+
+    <div class="wrapper home-5">
+<!--Header Area Start-->
+        <!--Header Area Start-->
+        <header>
+
+           <div class="header-container">
+
+
+<button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+
+
+<!--Header Top Area Start--> 
+               <!--Header Top Area Start--> 
+              <div class="header-top-area">
+                   <div class="container">
+                       <div class="row">
+<!--Header Top Left Area Start-->
+                            <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+                               <div class="header-top-menu">
+ <!--Header Top Left Area Start-->
+                            <div class="col-md-3 col-sm-4 col-xs-12 hidden-xs">                               <div class="header-top-menu">
+                                   <ul>
+                                       <li>
+                                          <i class="fa fa-envelope-o"> hupadhyay1005@gmail.com | </i><i class="fa fa-phone"> +91-9462642837 </i>
+
+                                       </li>
+
+                                        </li>
+                                   </ul>
+                               </div>
+
+                           </div>
+
+						   <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+						    <div class="col-md-2 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+
+                                   <ul>
+										<li>
+										                                           <button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+                                       </li>
+
+                                   </ul>
+                               </div>
+                           </div>		
+<!--Header Top Right Area Start-->
+                           <div class="col-md-8 col-sm-8 hidden-xs text-right">
+
+                           </div>
+						   <div class="col-md-3 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+                                   <ul>
+                                       <li>
+										                                            <button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+                                       </li>
+
+
+                                   </ul>
+                               </div>
+
+                           </div>
+
+						 <div class="col-md-3 col-sm-8 hidden-xs text-right">
+                               <div class="header-top-menu">
+                                   <ul>
+                                       <li class="support"><span><a id="signup" href = "signup.html">Sign Up | </a><a id="login"href = "login.html">Login</a></span></li>
+
+                                   </ul>
+                               </div>
+                           </div>
+<!--Header Top Right Area End-->
+<!--Header Top Area End-->
+ <!--Header Middel Area Start-->
+                <div class="header-middel-area">
+                    <div class="container">
+                        <div class="row">
+<!--Logo Start-->
+                            <div class="col-md-9 col-sm-9 col-xs-4">
+                                <div class="logo">
+                                    <img src="img/project-p2.png" width="14%" class="logo-img"
+                                            alt=""></a>
+                                </div>
+                            </div>
+<!--Logo End-->
+                           </div>   
+						   <!--Header Top Right Area End-->
+               <!--Header Top Area End-->
+               <!--Header Middel Area Start-->
+               <div class="header-middel-area">
+                   <div class="container">
+                       <div class="row">
+                           <!--Logo Start-->
+                           <div class="col-md-7 col-sm-9 col-xs-1">
+                               <div class="logo">
+                                   <img src="img/project-p2.png" width="100%" class="logo-img"
+                                    alt=""></a>
+
+<!--Mini Cart Start-->
+                           <div class="col-md-3 col-sm-4 col-xs-8">
+                               </div>
+                           </div>
+
+                           <!--Logo End-->
+                      <div class="col-md-2 col-sm-9 col-xs-1 text-center">
+                               <div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+                           </div>
+                           <!--Mini Cart Start-->
+                           <div class="col-md-3 col-sm-4 col-xs-8 text-right">
+                               <div class="mini-cart-area">
+                                   <ul>
+
+                                       <li>
+                                                                                  <a href="mycart.php"><i class="ion-android-cart"></i><span class="cart-total"> </a>
+                                                                               </li>
+                                   </ul>
+                               </div>
+                           </div><!--Mini Cart End-->
+                        </div>
+                    </div>
+                </div>
+<!--Header Middel Area End-->
+<!--Header bottom Area Start-->
+                           </div>
+                           <!--Mini Cart End-->
+                       </div>
+                   </div>
+               </div>
+               <!--Header Middel Area End--><!--Header bottom Area Start-->
+                <div class="header-bottom-area header-sticky">
+                    <div class="container">
+                        <div class="row">
+  114  checkout1.html 
+@@ -96,90 +96,110 @@
+}
+    </style>
+</head>
+
+<body>
+
+<button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+<div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+
+
+    <div class="wrapper home-5">
+<!--Header Area Start-->
+        <!--Header Area Start-->
+        <header>
+
+           <div class="header-container">
+
+
+<button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+	   
+
+<!--Header Top Area Start--> 
+
+               <!--Header Top Area Start--> 
+              <div class="header-top-area">
+                   <div class="container">
+                       <div class="row">
+<!--Header Top Left Area Start-->
+                            <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+                               <div class="header-top-menu">
+ <!--Header Top Left Area Start-->
+                            <div class="col-md-3 col-sm-4 col-xs-12 hidden-xs">                               <div class="header-top-menu">
+                                   <ul>
+                                       <li>
+                                          <i class="fa fa-envelope-o"> hupadhyay1005@gmail.com | </i><i class="fa fa-phone"> +91-9462642837 </i>
+
+                                       </li>
+
+                                        </li>
+                                   </ul>
+                               </div>
+
+                           </div>
+
+						   <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+						    <div class="col-md-2 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+
+                                   <ul>
+										<li>
+										                                           <button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+                                       </li>
+
+                                   </ul>
+                               </div>
+
+                           </div>
+						   <div class="col-md-3 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+                                   <ul>
+                                       <li>
+										                                            <button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+                                       </li>
+
+
+                                   </ul>
+                               </div>
+                           </div>		
+<!--Header Top Right Area Start-->
+                           <div class="col-md-8 col-sm-8 hidden-xs text-right">
+
+                           </div>
+
+						 <div class="col-md-3 col-sm-8 hidden-xs text-right">
+                               <div class="header-top-menu">
+                                   <ul>
+                                       <li class="support"><span><a id="signup" href = "signup.html">Sign Up | </a><a id="login"href = "login.html">Login</a></span></li>
+
+                                   </ul>
+                               </div>
+                           </div>
+<!--Header Top Right Area End-->
+<!--Header Top Area End-->
+ <!--Header Middel Area Start-->
+                <div class="header-middel-area">
+                    <div class="container">
+                        <div class="row">
+<!--Logo Start-->
+                            <div class="col-md-9 col-sm-9 col-xs-4">
+                                <div class="logo">
+                                    <img src="img/project-p2.png" width="14%" class="logo-img"
+                                            alt=""></a>
+                                </div>
+                            </div>
+<!--Logo End-->
+                           </div>   
+						   <!--Header Top Right Area End-->
+               <!--Header Top Area End-->
+               <!--Header Middel Area Start-->
+               <div class="header-middel-area">
+                   <div class="container">
+                       <div class="row">
+                           <!--Logo Start-->
+                           <div class="col-md-7 col-sm-9 col-xs-1">
+                               <div class="logo">
+                                   <img src="img/project-p2.png" width="100%" class="logo-img"
+                                    alt=""></a>
+
+<!--Mini Cart Start-->
+                         <div class="col-md-3 col-sm-4 col-xs-8">
+                               </div>
+                           </div>
+
+                           <!--Logo End-->
+                      <div class="col-md-2 col-sm-9 col-xs-1 text-center">
+                               <div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+                           </div>
+                           <!--Mini Cart Start-->
+                           <div class="col-md-3 col-sm-4 col-xs-8 text-right">
+                               <div class="mini-cart-area">
+                                   <ul>
+
+                                       <li>
+                                                                                  <a href="mycart.php"><i class="ion-android-cart"></i><span class="cart-total"> </a>
+                                                                               </li>
+                                   </ul>
+                               </div>
+                           </div>
+<!--Mini Cart End-->
+                        </div>
+                    </div>
+                </div>
+<!--Header Middel Area End-->
+<!--Header bottom Area Start-->
+                           <!--Mini Cart End-->
+                       </div>
+                   </div>
+               </div>
+               <!--Header Middel Area End--><!--Header bottom Area Start-->
+                <div class="header-bottom-area header-sticky">
+                    <div class="container">
+                        <div class="row">
+  97  contact.html 
+@@ -53,91 +53,110 @@
+
+
+</head>
+
+<body>
+
+
+<button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+<div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+
+
+    <div class="wrapper home-5">
+<!--Header Area Start-->
+        <!--Header Area Start-->
+        <header>
+
+           <div class="header-container">
+
+
+<button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+
+
+<!--Header Top Area Start--> 
+               <!--Header Top Area Start--> 
+              <div class="header-top-area">
+                   <div class="container">
+                       <div class="row">
+<!--Header Top Left Area Start-->
+                            <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+                               <div class="header-top-menu">
+ <!--Header Top Left Area Start-->
+                            <div class="col-md-3 col-sm-4 col-xs-12 hidden-xs">                               <div class="header-top-menu">
+                                   <ul>
+                                       <li>
+                                          <i class="fa fa-envelope-o"> hupadhyay1005@gmail.com | </i><i class="fa fa-phone"> +91-9462642837 </i>
+
+                                       </li>
+
+                                        </li>
+                                   </ul>
+                               </div>
+
+                           </div>
+
+						   <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+						    <div class="col-md-2 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+
+                                   <ul>
+										<li>
+										                                           <button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+                                       </li>
+
+                                   </ul>
+                               </div>
+                           </div>		
+<!--Header Top Right Area Start-->
+                           <div class="col-md-8 col-sm-8 hidden-xs text-right">
+
+                           </div>
+						   <div class="col-md-3 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+                                   <ul>
+                                       <li>
+										                                            <button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+                                       </li>
+
+
+                                   </ul>
+                               </div>
+
+                           </div>
+
+						 <div class="col-md-3 col-sm-8 hidden-xs text-right">
+                               <div class="header-top-menu">
+                                   <ul>
+                                       <li class="support"><span><a id="signup" href = "signup.html">Sign Up | </a><a id="login"href = "login.html">Login</a></span></li>
+
+                                   </ul>
+                               </div>
+                           </div>
+<!--Header Top Right Area End-->
+<!--Header Top Area End-->
+<!--Header Middel Area Start-->
+                           </div>   
+						   <!--Header Top Right Area End-->
+               <!--Header Top Area End-->
+               <!--Header Middel Area Start-->
+               <div class="header-middel-area">
+                   <div class="container">
+                       <div class="row">
+<!--Logo Start-->
+                           <div class="col-md-9 col-sm-9 col-xs-4">
+                           <!--Logo Start-->
+                           <div class="col-md-7 col-sm-9 col-xs-1">
+                               <div class="logo">
+                                   <img src="img/project-p2.png" width="14%" class="logo-img"
+                                   <img src="img/project-p2.png" width="100%" class="logo-img"
+                                    alt=""></a>
+
+                               </div>
+                           </div>
+<!--Logo End-->
+
+<!--Mini Cart Start-->
+                      <div class="col-md-3 col-sm-4 col-xs-8">
+
+                           <!--Logo End-->
+                      <div class="col-md-2 col-sm-9 col-xs-1 text-center">
+                               <div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+                           </div>
+                           <!--Mini Cart Start-->
+                           <div class="col-md-3 col-sm-4 col-xs-8 text-right">
+                               <div class="mini-cart-area">
+                                   <ul>
+
+                                       <li>
+                                                                                  <a href="mycart.php"><i class="ion-android-cart"></i><span class="cart-total"> </a>
+                                                                               </li>
+                                   </ul>
+                               </div>
+                           </div>
+<!--Mini Cart End-->
+                           <!--Mini Cart End-->
+                       </div>
+                   </div>
+               </div>
+<!--Header Middel Area End-->
+<!--Header bottom Area Start-->
+               <!--Header Middel Area End--><!--Header bottom Area Start-->
+               <div class="header-bottom-area header-sticky">
+                   <div class="container">
+                       <div class="row">
+  8  css/popup.css 
+@@ -5,11 +5,9 @@
+/* The popup form - hidden by default */
+.form-popup {
+  display: none;
+  position: fixed;
+  top:62px;
+  right: 11px; 
+  width: 250px;
+  height: 190px;
+  position: relative; 
+  width: 155px;
+  height: 134px;
+  border: 3px solid #f1f1f1;
+  border-radius:10px;
+  z-index: 9;
+  97  forgot.html 
+@@ -53,91 +53,110 @@
+
+
+</head>
+
+<body>
+
+
+<button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+<div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+
+
+    <div class="wrapper home-5">
+<!--Header Area Start-->
+        <!--Header Area Start-->
+        <header>
+
+           <div class="header-container">
+
+
+<button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+
+
+<!--Header Top Area Start--> 
+               <!--Header Top Area Start--> 
+              <div class="header-top-area">
+                   <div class="container">
+                       <div class="row">
+<!--Header Top Left Area Start-->
+                            <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+                               <div class="header-top-menu">
+ <!--Header Top Left Area Start-->
+                            <div class="col-md-3 col-sm-4 col-xs-12 hidden-xs">                               <div class="header-top-menu">
+                                   <ul>
+                                       <li>
+                                          <i class="fa fa-envelope-o"> hupadhyay1005@gmail.com | </i><i class="fa fa-phone"> +91-9462642837 </i>
+
+                                       </li>
+
+                                   </ul>
+                               </div>
+
+                           </div>
+						    <div class="col-md-2 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+                                   <ul>
+										<li>
+										                                           <button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+                                       </li>
+
+                                        </li>
+                                   </ul>
+                               </div>
+
+                           </div>
+
+						   <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+						   <div class="col-md-3 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+
+                                   <ul>
+                                       <li>
+										                                            <button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+                                       </li>
+
+
+                                   </ul>
+                               </div>
+                           </div>		
+<!--Header Top Right Area Start-->
+                           <div class="col-md-8 col-sm-8 hidden-xs text-right">
+
+                           </div>
+
+						 <div class="col-md-3 col-sm-8 hidden-xs text-right">
+                               <div class="header-top-menu">
+                                   <ul>
+                                       <li class="support"><span><a id="signup" href = "signup.html">Sign Up | </a><a id="login"href = "login.html">Login</a></span></li>
+
+                                   </ul>
+                               </div>
+                           </div>
+<!--Header Top Right Area End-->
+<!--Header Top Area End-->
+ <!--Header Middel Area Start-->
+                           </div>   
+						   <!--Header Top Right Area End-->
+               <!--Header Top Area End-->
+               <!--Header Middel Area Start-->
+               <div class="header-middel-area">
+                   <div class="container">
+                       <div class="row">
+<!--Logo Start-->
+                           <div class="col-md-9 col-sm-9 col-xs-4">
+                           <!--Logo Start-->
+                           <div class="col-md-7 col-sm-9 col-xs-1">
+                               <div class="logo">
+                                   <img src="img/project-p2.png" width="14%" class="logo-img"
+                                   <img src="img/project-p2.png" width="100%" class="logo-img"
+                                    alt=""></a>
+
+                               </div>
+                           </div>
+<!--Logo End-->
+
+<!--Mini Cart Start-->
+                          <div class="col-md-3 col-sm-4 col-xs-8">
+
+                           <!--Logo End-->
+                      <div class="col-md-2 col-sm-9 col-xs-1 text-center">
+                               <div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+                           </div>
+                           <!--Mini Cart Start-->
+                           <div class="col-md-3 col-sm-4 col-xs-8 text-right">
+                               <div class="mini-cart-area">
+                                   <ul>
+
+                                       <li>
+                                                                                  <a href="mycart.php"><i class="ion-android-cart"></i><span class="cart-total"> </a>
+                                                                               </li>
+                                   </ul>
+                               </div>
+                           </div>
+<!--Mini Cart End-->
+                           <!--Mini Cart End-->
+                       </div>
+                   </div>
+               </div>
+<!--Header Middel Area End-->
+<!--Header bottom Area Start-->
+               <!--Header Middel Area End--><!--Header bottom Area Start-->
+               <div class="header-bottom-area header-sticky">
+                   <div class="container">
+                       <div class="row">
+  96  forgot_username.html 
+@@ -56,88 +56,108 @@
+
+<body>
+
+
+<button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+<div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+
+
+    <div class="wrapper home-5">
+<!--Header Area Start-->
+        <!--Header Area Start-->
+        <header>
+
+           <div class="header-container">
+
+
+<button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+
+
+<!--Header Top Area Start--> 
+               <!--Header Top Area Start--> 
+              <div class="header-top-area">
+                   <div class="container">
+                       <div class="row">
+<!--Header Top Left Area Start-->
+                            <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+                               <div class="header-top-menu">
+ <!--Header Top Left Area Start-->
+                            <div class="col-md-3 col-sm-4 col-xs-12 hidden-xs">                               <div class="header-top-menu">
+                                   <ul>
+                                       <li>
+                                          <i class="fa fa-envelope-o"> hupadhyay1005@gmail.com | </i><i class="fa fa-phone"> +91-9462642837 </i>
+
+                                       </li>
+
+                                        </li>
+                                   </ul>
+                               </div>
+
+                           </div>
+
+						   <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+						    <div class="col-md-2 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+
+                                   <ul>
+										<li>
+										                                           <button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+                                       </li>
+
+                                   </ul>
+                               </div>
+                           </div>		
+<!--Header Top Right Area Start-->
+                           <div class="col-md-8 col-sm-8 hidden-xs text-right">
+
+                           </div>
+						   <div class="col-md-3 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+                                   <ul>
+                                       <li>
+										                                            <button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+                                       </li>
+
+
+                                   </ul>
+                               </div>
+
+                           </div>
+
+						 <div class="col-md-3 col-sm-8 hidden-xs text-right">
+                               <div class="header-top-menu">
+                                   <ul>
+                                       <li class="support"><span><a id="signup" href = "signup.html">Sign Up | </a><a id="login"href = "login.html">Login</a></span></li>
+
+                                   </ul>
+                               </div>
+                           </div>
+<!--Header Top Right Area End-->
+<!--Header Top Area End-->
+ <!--Header Middel Area Start-->
+                           </div>   
+						   <!--Header Top Right Area End-->
+               <!--Header Top Area End-->
+               <!--Header Middel Area Start-->
+               <div class="header-middel-area">
+                   <div class="container">
+                       <div class="row">
+<!--Logo Start-->
+                           <div class="col-md-9 col-sm-9 col-xs-4">
+                           <!--Logo Start-->
+                           <div class="col-md-7 col-sm-9 col-xs-1">
+                               <div class="logo">
+                                   <img src="img/project-p2.png" width="14%" class="logo-img"
+                                   <img src="img/project-p2.png" width="100%" class="logo-img"
+                                    alt=""></a>
+
+                               </div>
+                           </div>
+<!--Logo End-->
+
+<!--Mini Cart Start-->
+                          <div class="col-md-3 col-sm-4 col-xs-8">
+
+                           <!--Logo End-->
+                      <div class="col-md-2 col-sm-9 col-xs-1 text-center">
+                               <div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+                           </div>
+                           <!--Mini Cart Start-->
+                           <div class="col-md-3 col-sm-4 col-xs-8 text-right">
+                               <div class="mini-cart-area">
+                                   <ul>
+
+                                       <li>
+                                                                                  <a href="mycart.php"><i class="ion-android-cart"></i><span class="cart-total"> </a>
+                                                                               </li>
+                                   </ul>
+                               </div>
+                           </div>
+<!--Mini Cart End-->
+                           <!--Mini Cart End-->
+                       </div>
+                   </div>
+               </div>
+<!--Header Middel Area End-->
+<!--Header bottom Area Start-->
+               <!--Header Middel Area End--><!--Header bottom Area Start-->
+               <div class="header-bottom-area header-sticky">
+                   <div class="container">
+                       <div class="row">
+  73  index.html 
+@@ -32,17 +32,6 @@
+
+<body>
+
+
+<button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+<div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+
+
+    <div class="wrapper home-5">
+        <!--Header Area Start-->
+@@ -51,57 +40,89 @@
+           <div class="header-container">
+
+
+<button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+
+
+               <!--Header Top Area Start--> 
+              <div class="header-top-area">
+                   <div class="container">
+                       <div class="row">
+ <!--Header Top Left Area Start-->
+                            <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+                               <div class="header-top-menu">
+                            <div class="col-md-3 col-sm-4 col-xs-12 hidden-xs">                               <div class="header-top-menu">
+                                   <ul>
+                                       <li>
+                                          <i class="fa fa-envelope-o"> hupadhyay1005@gmail.com | </i><i class="fa fa-phone"> +91-9462642837 </i>
+
+                                       </li>
+
+                                   </ul>
+                               </div>
+
+                           </div>
+						    <div class="col-md-2 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+                                   <ul>
+										<li>
+										                                           <button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+                                       </li>
+
+                                   </ul>
+                               </div>
+
+                           </div>
+
+						   <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+						   <div class="col-md-3 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+
+                                   <ul>
+                                       <li>
+										                                            <button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+                                       </li>
+
+
+                                   </ul>
+                               </div>
+                           </div>		
+						    <!--Header Top Right Area Start-->
+                           <div class="col-md-8 col-sm-8 hidden-xs text-right">
+
+                           </div>
+
+						 <div class="col-md-3 col-sm-8 hidden-xs text-right">
+                               <div class="header-top-menu">
+                                   <ul>
+                                       <li class="support"><span><a id="signup" href = "signup.html">Sign Up | </a><a id="login"href = "login.html">Login</a></span></li>
+
+                                   </ul>
+                               </div>
+                           </div>
+                           <!--Header Top Right Area End-->
+                           </div>   
+						   <!--Header Top Right Area End-->
+               <!--Header Top Area End-->
+               <!--Header Middel Area Start-->
+               <div class="header-middel-area">
+                   <div class="container">
+                       <div class="row">
+                           <!--Logo Start-->
+                           <div class="col-md-9 col-sm-9 col-xs-4">
+                           <div class="col-md-7 col-sm-9 col-xs-1">
+                               <div class="logo">
+                                   <img src="img/project-p2.png" width="14%" class="logo-img"
+                                   <img src="img/project-p2.png" width="100%" class="logo-img"
+                                    alt=""></a>
+
+                               </div>
+                           </div>
+
+                           <!--Logo End-->
+
+                      <div class="col-md-2 col-sm-9 col-xs-1 text-center">
+                               <div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+                           </div>
+                           <!--Mini Cart Start-->
+                           <div class="col-md-3 col-sm-4 col-xs-8">
+                           <div class="col-md-3 col-sm-4 col-xs-8 text-right">
+                               <div class="mini-cart-area">
+                                   <ul>
+
+                                       <li>
+                                                                                  <a href="mycart.php"><i class="ion-android-cart"></i><span class="cart-total"> </a>
+                                                                               </li>
+  98  login.html 
+@@ -53,90 +53,110 @@
+
+
+</head>
+
+<body>
+
+
+<button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+<div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+
+
+    <div class="wrapper home-5">
+<!--Header Area Start-->
+        <!--Header Area Start-->
+        <header>
+
+           <div class="header-container">
+
+
+<button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+
+
+<!--Header Top Area Start--> 
+               <!--Header Top Area Start--> 
+              <div class="header-top-area">
+                   <div class="container">
+                       <div class="row">
+<!--Header Top Left Area Start-->
+                            <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+                               <div class="header-top-menu">
+ <!--Header Top Left Area Start-->
+                            <div class="col-md-3 col-sm-4 col-xs-12 hidden-xs">                               <div class="header-top-menu">
+                                   <ul>
+                                       <li>
+                                          <i class="fa fa-envelope-o"> hupadhyay1005@gmail.com | </i><i class="fa fa-phone"> +91-9462642837 </i>
+                                        </li>
+
+                                       </li>
+
+                                   </ul>
+                               </div>
+
+                           </div>
+
+						   <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+						    <div class="col-md-2 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+
+                                   <ul>
+										<li>
+										                                           <button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+                                       </li>
+
+                                   </ul>
+                               </div>
+                           </div>		
+<!--Header Top Right Area Start-->
+                           <div class="col-md-8 col-sm-8 hidden-xs text-right">
+
+                           </div>
+						   <div class="col-md-3 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+                                   <ul>
+                                       <li>
+										                                            <button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+                                       </li>
+
+
+                                   </ul>
+                               </div>
+
+                           </div>
+
+						 <div class="col-md-3 col-sm-8 hidden-xs text-right">
+                               <div class="header-top-menu">
+                                   <ul>
+                                       <li class="support"><span><a id="signup" href = "signup.html">Sign Up | </a><a id="login"href = "login.html">Login</a></span></li>
+
+                                   </ul>
+                               </div>
+                           </div>
+<!--Header Top Right Area End-->
+<!--Header Top Area End-->
+<!--Header Middel Area Start-->
+                           </div>   
+						   <!--Header Top Right Area End-->
+               <!--Header Top Area End-->
+               <!--Header Middel Area Start-->
+               <div class="header-middel-area">
+                   <div class="container">
+                       <div class="row">
+<!--Logo Start-->
+                           <div class="col-md-9 col-sm-9 col-xs-4">
+                           <!--Logo Start-->
+                           <div class="col-md-7 col-sm-9 col-xs-1">
+                               <div class="logo">
+                                   <img src="img/project-p2.png" width="14%" class="logo-img"
+                                   <img src="img/project-p2.png" width="100%" class="logo-img"
+                                    alt=""></a>
+
+                               </div>
+                           </div>
+<!--Logo End-->
+
+<!--Mini Cart Start-->
+                          <div class="col-md-3 col-sm-4 col-xs-8">
+
+                           <!--Logo End-->
+                      <div class="col-md-2 col-sm-9 col-xs-1 text-center">
+                               <div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+                           </div>
+                           <!--Mini Cart Start-->
+                           <div class="col-md-3 col-sm-4 col-xs-8 text-right">
+                               <div class="mini-cart-area">
+                                   <ul>
+
+                                       <li>
+                                                                                  <a href="mycart.php"><i class="ion-android-cart"></i><span class="cart-total"> </a>
+                                                                               </li>
+                                   </ul>
+                               </div>
+                           </div>
+<!--Mini Cart End-->
+                           <!--Mini Cart End-->
+                       </div>
+                   </div>
+               </div>
+<!--Header Middel Area End-->
+<!--Header bottom Area Start-->
+               <!--Header Middel Area End--><!--Header bottom Area Start-->
+               <div class="header-bottom-area header-sticky">
+                   <div class="container">
+                       <div class="row">
+  173  mycart.php 
+@@ -76,85 +76,108 @@
+                </div>
+            </div>
+        </div>
+    <button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+    <div class="form-popup" id="myForm">
+        <form action="" class="form-container">
+            <input id="pincode" placeholder="Enter PINCODE" maxlength="6"> <br>
+            <button type="button" class="btn" onclick="myFunction()">Submit</button>
+            <button type="button" class="btn" onclick="closeForm()">Close</button>
+        </form>
+    </div>
+
+
+
+    <div class="wrapper home-5">
+        <!--Header Area Start-->
+        <header>
+
+            <div class="header-container">
+
+
+                <button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+                <!--Header Top Area Start-->
+                <div class="header-top-area">
+                    <div class="container">
+                        <div class="row">
+                            <!--Header Top Left Area Start-->
+                            <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+                                <div class="header-top-menu">
+                                    <ul>
+                                        <li>
+                                            <i class="fa fa-envelope-o"> hupadhyay1005@gmail.com | </i><i class="fa fa-phone"> +91-9462642837 </i>
+
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+                                <div class="header-top-menu">
+
+                                </div>
+                            </div>
+                            <!--Header Top Right Area Start-->
+                            <div class="col-md-8 col-sm-8 hidden-xs text-right">
+                                <div class="header-top-menu">
+                                    <ul>
+                                        <li class="support"><span><a id="signup" href="signup.html">Sign Up | </a><a id="login" href="login.html">Login</a></span></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                            <!--Header Top Right Area End-->
+                            <!--Header Top Area End-->
+                            <!--Header Middel Area Start-->
+                            <div class="header-middel-area">
+                                <div class="container">
+                                    <div class="row">
+                                        <!--Logo Start-->
+                                        <div class="col-md-9 col-sm-9 col-xs-4">
+                                            <div class="logo">
+                                                <img src="img/project-p2.png" width="14%" class="logo-img" alt=""></a>
+                                            </div>
+                                        </div>
+                                        <!--Logo End-->
+
+                                        <!--Mini Cart Start-->
+                                        <div class="col-md-3 col-sm-4 col-xs-8">
+                                            <div class="mini-cart-area">
+                                                <ul>
+                                                    <li>
+                                                        <a href="mycart.php"><i class="ion-android-cart"></i><span class="cart-add"><?php echo $count; ?></span><span class="cart-total"> My Cart (<?php echo $count; ?>)</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <!--Mini Cart End-->
+                                    </div>
+                                </div>
+                            </div>
+                            <!--Header Middel Area End-->
+           <div class="header-container">
+
+
+
+
+
+               <!--Header Top Area Start--> 
+              <div class="header-top-area">
+                   <div class="container">
+                       <div class="row">
+ <!--Header Top Left Area Start-->
+                            <div class="col-md-3 col-sm-4 col-xs-12 hidden-xs">                               <div class="header-top-menu">
+                                   <ul>
+                                       <li>
+                                          <i class="fa fa-envelope-o"> hupadhyay1005@gmail.com | </i><i class="fa fa-phone"> +91-9462642837 </i>
+
+                                       </li>
+
+                                   </ul>
+                               </div>
+
+                           </div>
+						    <div class="col-md-2 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+                                   <ul>
+										<li>
+										                                           <button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+                                       </li>
+
+                                   </ul>
+                               </div>
+
+                           </div>
+						   <div class="col-md-3 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+                                   <ul>
+                                       <li>
+										                                            <button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+                                       </li>
+
+
+                                   </ul>
+                               </div>
+
+                           </div>
+
+						 <div class="col-md-3 col-sm-8 hidden-xs text-right">
+                               <div class="header-top-menu">
+                                   <ul>
+                                       <li class="support"><span><a id="signup" href = "signup.html">Sign Up | </a><a id="login"href = "login.html">Login</a></span></li>
+
+                                   </ul>
+                               </div>
+                           </div>   
+						   <!--Header Top Right Area End-->
+               <!--Header Top Area End-->
+               <!--Header Middel Area Start-->
+               <div class="header-middel-area">
+                   <div class="container">
+                       <div class="row">
+                           <!--Logo Start-->
+                           <div class="col-md-7 col-sm-9 col-xs-1">
+                               <div class="logo">
+                                   <img src="img/project-p2.png" width="100%" class="logo-img"
+                                    alt=""></a>
+
+                               </div>
+                           </div>
+
+                           <!--Logo End-->
+                      <div class="col-md-2 col-sm-9 col-xs-1 text-center">
+                               <div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+                           </div>
+                           <!--Mini Cart Start-->
+                           <div class="col-md-3 col-sm-4 col-xs-8 text-right">
+                               <div class="mini-cart-area">
+                                   <ul>
+
+                                       <li>
+                                                        <a href="mycart.php"><i class="ion-android-cart"></i><span class="cart-add"><?php echo $count; ?></span>(<?php echo $count; ?>)</a>
+                                                                               </li>
+                                   </ul>
+                               </div>
+                           </div>
+                           <!--Mini Cart End-->
+                       </div>
+                   </div>
+               </div>
+               <!--Header Middel Area End-->
+                            <!--Header bottom Area Start-->
+                            <div class="header-bottom-area header-sticky">
+                                <div class="container">
+  108  near-by-attraction.html 
+@@ -58,17 +58,6 @@
+
+<body>
+
+
+<button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+<div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+
+
+    <div class="wrapper home-5">
+        <!--Header Area Start-->
+@@ -77,69 +66,100 @@
+           <div class="header-container">
+
+
+<button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+
+
+               <!--Header Top Area Start--> 
+              <div class="header-top-area">
+                   <div class="container">
+                       <div class="row">
+ <!--Header Top Left Area Start-->
+                            <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+                               <div class="header-top-menu">
+                            <div class="col-md-3 col-sm-4 col-xs-12 hidden-xs">                               <div class="header-top-menu">
+                                   <ul>
+                                       <li>
+                                          <i class="fa fa-envelope-o"> hupadhyay1005@gmail.com | </i><i class="fa fa-phone"> +91-9462642837 </i>
+
+                                        </li>
+
+                                       </li>
+
+                                   </ul>
+                               </div>
+
+                           </div>
+
+						   <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+						    <div class="col-md-2 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+
+                                   <ul>
+										<li>
+										                                           <button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+                                       </li>
+
+                                   </ul>
+                               </div>
+                           </div>		
+						    <!--Header Top Right Area Start-->
+                           <div class="col-md-8 col-sm-8 hidden-xs text-right">
+
+                           </div>
+						   <div class="col-md-3 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+                                   <ul>
+                                       <li>
+										                                            <button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+                                       </li>
+
+
+                                   </ul>
+                               </div>
+
+                           </div>
+
+						 <div class="col-md-3 col-sm-8 hidden-xs text-right">
+                               <div class="header-top-menu">
+                                   <ul>
+                                       <li class="support"><span><a id="signup" href = "signup.html">Sign Up | </a><a id="login"href = "login.html">Login</a></span></li>
+
+                                   </ul>
+                               </div>
+                           </div>
+                           <!--Header Top Right Area End-->
+                           </div>   
+						   <!--Header Top Right Area End-->
+               <!--Header Top Area End-->
+                <!--Header Middel Area Start-->
+                <div class="header-middel-area">
+                    <div class="container">
+                        <div class="row">
+                            <!--Logo Start-->
+                            <div class="col-md-9 col-sm-9 col-xs-4">
+                                <div class="logo">
+                                    <img src="img/project-p2.png" width="14%" class="logo-img"
+                                            alt=""></a>
+                                </div>
+                            </div>
+                            <!--Logo End-->
+               <!--Header Middel Area Start-->
+               <div class="header-middel-area">
+                   <div class="container">
+                       <div class="row">
+                           <!--Logo Start-->
+                           <div class="col-md-7 col-sm-9 col-xs-1">
+                               <div class="logo">
+                                   <img src="img/project-p2.png" width="100%" class="logo-img"
+                                    alt=""></a>
+
+                            <!--Mini Cart Start-->
+                           <div class="col-md-3 col-sm-4 col-xs-8">
+                               </div>
+                           </div>
+
+                           <!--Logo End-->
+                      <div class="col-md-2 col-sm-9 col-xs-1 text-center">
+                               <div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+                           </div>
+                           <!--Mini Cart Start-->
+                           <div class="col-md-3 col-sm-4 col-xs-8 text-right">
+                               <div class="mini-cart-area">
+                                   <ul>
+
+                                       <li>
+                                                                                  <a href="mycart.php"><i class="ion-android-cart"></i><span class="cart-total"> </a>
+                                                                               </li>
+                                   </ul>
+                               </div>
+                           </div>
+                            <!--Mini Cart End-->
+                        </div>
+                    </div>
+                </div>
+                <!--Header Middel Area End-->
+                <!--Header bottom Area Start-->
+                           <!--Mini Cart End-->
+                       </div>
+                   </div>
+               </div>
+               <!--Header Middel Area End-->                <!--Header bottom Area Start-->
+                <div class="header-bottom-area header-sticky">
+                    <div class="container">
+                        <div class="row">
+  4  php/forgot.php 
+@@ -15,10 +15,10 @@
+      $result = $row['password'];
+   	}
+
+$to_email = "hupadhyay2012@gmail.com";
+$to_email = "projectp2intern@gmail.com";
+$subject = "Your Password"; 
+$body = "Hi,We just received your forgot password request. The password for the Username:-$name is:- $result";
+$headers = "From: hupadhyay2012@gmail.com";
+$headers = "From: projectp2intern@gmail.com";
+
+if(mail($to_email, $subject, $body, $headers)) 
+{
+  4  php/forgot_username.php 
+@@ -15,10 +15,10 @@
+      $result = $row['name'];
+   	}
+
+$to_email = "hupadhyay2012@gmail.com";
+$to_email = "projectp2intern@gmail.com";
+$subject = "Your Username"; 
+$body = "Hi,We just received your forgot username request. The username for the entered Phone :- $phone is:- $result";
+$headers = "From: hupadhyay2012@gmail.com";
+$headers = "From: projectp2intern@gmail.com";
+
+if(mail($to_email, $subject, $body, $headers)) 
+{
+  4  php/sendmail.php 
+@@ -6,10 +6,10 @@
+$subject = $_POST['c_subject'];  
+$message = $_POST['c_message'];
+
+$to_email = "hupadhyay2012@gmail.com";
+$to_email = "projectp2intern@gmail.com";
+$subject = $_POST['c_subject']; 
+$body = "Hi, My name is $name and my query is : $message My Contact Details are:- Email Address: $email Phone Number:- $phone";
+$headers = "From: hupadhyay2012@gmail.com";
+$headers = "From: projectp2intern@gmail.com";
+
+if (mail($to_email, $subject, $body, $headers)) {
+    echo "$name, We have received your query.".PHP_EOL .PHP_EOL .PHP_EOL .PHP_EOL .PHP_EOL;
+  131  php/success.php 
+@@ -96,91 +96,110 @@
+}
+    </style>
+</head>
+<body>
+   
+<button class="open-button" onclick="openForm()">Check Service Availability</button>
+<div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+	   
+                                 
+    <div class="wrapper home-5">
+<!--Header Area Start-->
+        <!--Header Area Start-->
+        <header>
+           <div class="header-container">
+																							   
+<button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+	   
+<!--Header Top Area Start--> 
+               <!--Header Top Area Start--> 
+              <div class="header-top-area">
+                   <div class="container">
+                       <div class="row">
+<!--Header Top Left Area Start-->
+                            <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+                               <div class="header-top-menu">
+ <!--Header Top Left Area Start-->
+                            <div class="col-md-3 col-sm-4 col-xs-12 hidden-xs">                               <div class="header-top-menu">
+                                   <ul>
+                                       <li>
+                                          <i class="fa fa-envelope-o"> hupadhyay1005@gmail.com | </i><i class="fa fa-phone"> +91-9462642837 </i>
+										  
+                                       </li>
+                                        </li>
+                                   </ul>
+                               </div>
+							   
+                           </div>
+								
+						   <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+						    <div class="col-md-2 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+                                   
+                                   <ul>
+										<li>
+										                                           <button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+ 
+                                       </li>
+                                   </ul>
+                               </div>
+							   
+                           </div>
+						   <div class="col-md-3 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+                                   <ul>
+                                       <li>
+										                                            <button class="open-button" onclick="openForm()">Check Service Availability</button>
+                                       </li>
+                                   </ul>
+                               </div>
+                           </div>		
+<!--Header Top Right Area Start-->
+                           <div class="col-md-8 col-sm-8 hidden-xs text-right">
+							   
+                           </div>
+						     
+						 <div class="col-md-3 col-sm-8 hidden-xs text-right">
+                               <div class="header-top-menu">
+                                   <ul>
+                                       <li class="support"><span><a id="signup" href = "signup.html">Sign Up | </a><a id="login"href = "login.html">Login</a></span></li>
+                                      
+                                   </ul>
+                               </div>
+                           </div>   
+						   <!--Header Top Right Area End-->
+               <!--Header Top Area End-->
+               <!--Header Middel Area Start-->
+               <div class="header-middel-area">
+                   <div class="container">
+                       <div class="row">
+                           <!--Logo Start-->
+                           <div class="col-md-7 col-sm-9 col-xs-1">
+                               <div class="logo">
+                                   <img src="img/project-p2.png" width="100%" class="logo-img"
+                                    alt=""></a>
+                               </div>
+                           </div>
+						   
+                           <!--Logo End-->
+                      <div class="col-md-2 col-sm-9 col-xs-1 text-center">
+                               <div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+                           </div>
+                           <!--Mini Cart Start-->
+                           <div class="col-md-3 col-sm-4 col-xs-8 text-right">
+                               <div class="mini-cart-area">
+                                   <ul>
+                                       <li>
+                                                                                  <a href="mycart.php"><i class="ion-android-cart"></i><span class="cart-total"> </a>
+                                                                               </li>
+                                   </ul>
+                               </div>
+                           </div>
+<!--Header Top Right Area End-->
+<!--Header Top Area End-->
+ <!--Header Middel Area Start-->
+                <div class="header-middel-area">
+                    <div class="container">
+                        <div class="row">
+<!--Logo Start-->
+                            <div class="col-md-9 col-sm-9 col-xs-4">
+                                <div class="logo">
+                                    <img src="../img/project-p2.png" width="14%" class="logo-img"
+                                            alt=""></a>
+                                </div>
+                            </div>
+<!--Logo End-->
+<!--Mini Cart Start-->
+                            <div class="col-md-3 col-sm-4 col-xs-8">
+                                <div class="mini-cart-area">
+                                    <ul>
+                                        <li>
+                                            <i class="ion-android-cart"></i><span
+                                                    class="cart-add">0</span><span class="cart-total">Rs 0/- </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+<!--Mini Cart End-->
+                        </div>
+                    </div>
+                </div>
+<!--Header Middel Area End-->
+<!--Header bottom Area Start-->
+                           <!--Mini Cart End-->
+                       </div>
+                   </div>
+               </div>
+               <!--Header Middel Area End--><!--Header bottom Area Start-->
+                <div class="header-bottom-area header-sticky">
+                    <div class="container">
+                        <div class="row">
+  99  signup.html 
+@@ -52,89 +52,108 @@
+
+<body>
+
+<!-- Pincode Check Button and Popup -->
+
+<button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+<div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+
+
+    <div class="wrapper home-5">
+<!--Header Area Start-->
+        <!--Header Area Start-->
+        <header>
+
+           <div class="header-container">
+
+<!-- Switch Theme button-->
+
+<button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+
+
+<!--Header Top Area Start--> 
+               <!--Header Top Area Start--> 
+              <div class="header-top-area">
+                   <div class="container">
+                       <div class="row">
+<!--Header Top Left Area Start-->
+                            <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+                               <div class="header-top-menu">
+ <!--Header Top Left Area Start-->
+                            <div class="col-md-3 col-sm-4 col-xs-12 hidden-xs">                               <div class="header-top-menu">
+                                   <ul>
+                                       <li>
+                                          <i class="fa fa-envelope-o"> hupadhyay1005@gmail.com | </i><i class="fa fa-phone"> +91-9462642837 </i>
+                                        </li>
+
+                                       </li>
+
+                                   </ul>
+                               </div>
+
+                           </div>
+						    <div class="col-md-2 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+                                   <ul>
+										<li>
+										                                           <button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+                                       </li>
+
+                                   </ul>
+                               </div>
+
+                           </div>
+
+						   <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+						   <div class="col-md-3 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+
+                                   <ul>
+                                       <li>
+										                                            <button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+                                       </li>
+
+
+                                   </ul>
+                               </div>
+                           </div>		
+<!--Header Top Right Area Start-->
+                           <div class="col-md-8 col-sm-8 hidden-xs text-right">
+
+                           </div>
+
+						 <div class="col-md-3 col-sm-8 hidden-xs text-right">
+                               <div class="header-top-menu">
+                                   <ul>
+                                       <li class="support"><span><a id="signup" href = "signup.html">Sign Up | </a><a id="login"href = "login.html">Login</a></span></li>
+
+                                   </ul>
+                               </div>
+                           </div>
+<!--Header Top Right Area End-->
+<!--Header Top Area End-->
+ <!--Header Middel Area Start-->
+                           </div>   
+						   <!--Header Top Right Area End-->
+               <!--Header Top Area End-->
+               <!--Header Middel Area Start-->
+               <div class="header-middel-area">
+                   <div class="container">
+                       <div class="row">
+<!--Logo Start-->
+                           <div class="col-md-9 col-sm-9 col-xs-4">
+                           <!--Logo Start-->
+                           <div class="col-md-7 col-sm-9 col-xs-1">
+                               <div class="logo">
+                                   <img src="img/project-p2.png" width="14%" class="logo-img"
+                                   <img src="img/project-p2.png" width="100%" class="logo-img"
+                                    alt=""></a>
+
+                               </div>
+                           </div>
+<!--Logo End-->
+
+<!--Mini Cart Start-->
+                       <div class="col-md-3 col-sm-4 col-xs-8">
+
+                           <!--Logo End-->
+                      <div class="col-md-2 col-sm-9 col-xs-1 text-center">
+                               <div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+                           </div>
+                           <!--Mini Cart Start-->
+                           <div class="col-md-3 col-sm-4 col-xs-8 text-right">
+                               <div class="mini-cart-area">
+                                   <ul>
+
+                                       <li>
+                                                                                  <a href="mycart.php"><i class="ion-android-cart"></i><span class="cart-total"> </a>
+                                                                               </li>
+                                   </ul>
+                               </div>
+                           </div>
+<!--Mini Cart End-->
+                           <!--Mini Cart End-->
+                       </div>
+                   </div>
+               </div>
+<!--Header Middel Area End-->
+<!--Header bottom Area Start-->
+               <!--Header Middel Area End--><!--Header bottom Area Start-->
+               <div class="header-bottom-area header-sticky">
+                   <div class="container">
+                       <div class="row">
+  171  store.php 
+@@ -72,85 +72,108 @@
+                </div>
+            </div>
+        </div>
+    <button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+    <div class="form-popup" id="myForm">
+        <form action="" class="form-container">
+            <input id="pincode" placeholder="Enter PINCODE" maxlength="6"> <br>
+            <button type="button" class="btn" onclick="myFunction()">Submit</button>
+            <button type="button" class="btn" onclick="closeForm()">Close</button>
+        </form>
+    </div>
+
+
+
+    <div class="wrapper home-5">
+        <!--Header Area Start-->
+        <header>
+
+            <div class="header-container">
+
+
+                <button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+                <!--Header Top Area Start-->
+                <div class="header-top-area">
+                    <div class="container">
+                        <div class="row">
+                            <!--Header Top Left Area Start-->
+                            <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+                                <div class="header-top-menu">
+                                    <ul>
+                                        <li>
+                                            <i class="fa fa-envelope-o"> hupadhyay1005@gmail.com | </i><i class="fa fa-phone"> +91-9462642837 </i>
+
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 col-sm-4 col-xs-12 hidden-xs">
+                                <div class="header-top-menu">
+
+                                </div>
+                            </div>
+                            <!--Header Top Right Area Start-->
+                            <div class="col-md-8 col-sm-8 hidden-xs text-right">
+                                <div class="header-top-menu">
+                                    <ul>
+                                        <li class="support"><span><a id="signup" href="signup.html">Sign Up | </a><a id="login" href="login.html">Login</a></span></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                            <!--Header Top Right Area End-->
+                            <!--Header Top Area End-->
+                            <!--Header Middel Area Start-->
+                            <div class="header-middel-area">
+                                <div class="container">
+                                    <div class="row">
+                                        <!--Logo Start-->
+                                        <div class="col-md-9 col-sm-9 col-xs-4">
+                                            <div class="logo">
+                                                <img src="img/project-p2.png" width="14%" class="logo-img" alt=""></a>
+                                            </div>
+                                        </div>
+                                        <!--Logo End-->
+
+                                        <!--Mini Cart Start-->
+                                        <div class="col-md-3 col-sm-4 col-xs-8">
+                                            <div class="mini-cart-area">
+                                                <ul>
+                                                    <li>
+           <div class="header-container">
+
+
+
+
+
+               <!--Header Top Area Start--> 
+              <div class="header-top-area">
+                   <div class="container">
+                       <div class="row">
+ <!--Header Top Left Area Start-->
+                            <div class="col-md-3 col-sm-4 col-xs-12 hidden-xs">                               <div class="header-top-menu">
+                                   <ul>
+                                       <li>
+                                          <i class="fa fa-envelope-o"> hupadhyay1005@gmail.com | </i><i class="fa fa-phone"> +91-9462642837 </i>
+
+                                       </li>
+
+                                   </ul>
+                               </div>
+
+                           </div>
+						    <div class="col-md-2 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+                                   <ul>
+										<li>
+										                                           <button id="themetoggle" onclick="toggleTheme()">Switch Theme</button>
+
+                                       </li>
+
+                                   </ul>
+                               </div>
+
+                           </div>
+						   <div class="col-md-4 col-sm-9 col-xs-2 text-center">
+                               <div class="header-top-menu">
+                                   <ul>
+                                       <li>
+										                                            <button class="open-button" onclick="openForm()">Check Service Availability</button>
+
+                                       </li>
+
+
+                                   </ul>
+                               </div>
+
+                           </div>
+
+						 <div class="col-md-3 col-sm-8 hidden-xs text-center">
+                               <div class="header-top-menu">
+                                   <ul>
+                                       <li class="support"><span><a id="signup" href = "signup.html">Sign Up | </a><a id="login"href = "login.html">Login</a></span></li>
+
+                                   </ul>
+                               </div>
+                           </div>   
+						   <!--Header Top Right Area End-->
+               <!--Header Top Area End-->
+               <!--Header Middel Area Start-->
+               <div class="header-middel-area">
+                   <div class="container">
+                       <div class="row">
+                           <!--Logo Start-->
+                           <div class="col-md-7 col-sm-9 col-xs-1">
+                               <div class="logo">
+                                   <img src="img/project-p2.png" width="100%" class="logo-img"
+                                    alt=""></a>
+
+                               </div>
+                           </div>
+
+                           <!--Logo End-->
+                      <div class="col-md-1 col-sm-9 col-xs-1 text-centre">
+                               <div class="form-popup" id="myForm">
+  <form action="" class="form-container">
+<input id="pincode" placeholder="Enter PINCODE"maxlength="6"> <br>
+										  <button type="button" class="btn" onclick="myFunction()">Submit</button>
+										  <button type="button" class="btn" onclick="closeForm()">Close</button>
+  </form>
+</div>
+                           </div>
+                           <!--Mini Cart Start-->
+                           <div class="col-md-3 col-sm-4 col-xs-8 text-right">
+                               <div class="mini-cart-area">
+                                   <ul>
+
+                                       <li>
+                                                        <a href="mycart.php"><i class="ion-android-cart"></i><span class="cart-add"><?php echo $count; ?></span><span class="cart-total"> My Cart (<?php echo $count; ?>)</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <!--Mini Cart End-->
+                                    </div>
+                                </div>
+                            </div>
+                            <!--Header Middel Area End-->
+                                                                               </li>
+                                   </ul>
+                               </div>
+                           </div>
+                           <!--Mini Cart End-->
+                       </div>
+                   </div>
+               </div>
+               <!--Header Middel Area End-->
+                            <!--Header bottom Area Start-->
+                            <div class="header-bottom-area header-sticky">
+                                <div class="container">
+  28  style.css 
+@@ -2,17 +2,26 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i|Raleway:400,700,900|Shadows+Into+Light');
+#pincode{
+	color:#7a7a7a;
+	height:35px;
+	padding:0px;
+}
+
+#submitpin{
+	height:20px;
+}
+#closepin{
+	height:20px;
+}
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+.form-container{
+  background-color: #7a7a7a;
+  max-width: 300px;
+  max-width: 155px;
+  padding: 10px;
+  color: white;
+  cursor: pointer;
+  width: 250px;
+  height: 190px;
+  width: 235px;
+  height: 133px;
+  border: 3px solid #f1f1f1;
+  border-radius:10px;
+  margin-bottom:10px;
+@@ -33,15 +42,13 @@ body {font-family: Arial, Helvetica, sans-serif;}
+  background-color: #ddd;
+  outline: none;
+}
+
+.btn {
+  background-color: #363f4d;
+  color: white;
+
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom:10px;
+  margin-bottom:2px;
+  opacity: 0.8;
+}
+
+@@ -55,7 +62,6 @@ body {font-family: Arial, Helvetica, sans-serif;}
+  opacity: 0.8;
+  position: fixed;
+  bottom: ;
+  right: 100px;
+  width: 170px;
+}
+.footer-container bg-3{
+@@ -74,7 +80,6 @@ color:#222;}
+  cursor: pointer;
+  opacity: 0.8;
+  position: fixed;
+  right: 0px;
+  width:100px;
+
+}
+@@ -137,8 +142,6 @@ a,
+    border-radius: 0px;
+    font-size: 14px;
+    padding: 0px 15px;
+    height: 30px;
+    line-height: 30px;
+}
+a:focus,
+.btn:focus {
+@@ -1175,8 +1178,6 @@ FLOAT:RIGHT;}
+.header-top-menu > ul > li {
+	display: inline-block;
+	position: relative;
+	padding-right: 16px;
+	margin-right: 16px;
+	font-size: 12px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+@@ -5924,9 +5925,12 @@ p.form-messege.success {
+}  
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+/*index page css*/
+
+.search-box-area {
+	margin: 35px 0px 35px 15px;
+}
+  28  style1.css 
+@@ -1,4 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i|Raleway:400,700,900|Shadows+Into+Light');
+#pincode{
+	color:#fff;
+	height:35px;
+	padding:0px;
+}
+
+#submitpin{
+	height:20px;
+}
+#closepin{
+	height:20px;
+}
+
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+.form-container{
+@@ -7,8 +20,8 @@ body {font-family: Arial, Helvetica, sans-serif;}
+  padding: 10px;
+  color: white;
+  cursor: pointer;
+  width: 250px;
+  height: 190px;
+  width: 235px;
+   height: 133px;
+  border: 3px solid #f1f1f1;
+  border-radius:10px;
+  margin-bottom:10px;
+@@ -31,13 +44,13 @@ body {font-family: Arial, Helvetica, sans-serif;}
+}
+
+.btn {
+  background-color: #68b501;
+ display:inline-block;
+ background-color: #68b501;
+  color: white;
+
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom:10px;
+  margin-bottom:2px;
+  opacity: 0.8;
+}
+.open-button {
+@@ -50,7 +63,6 @@ body {font-family: Arial, Helvetica, sans-serif;}
+  opacity: 0.8;
+  position: fixed;
+  bottom: ;
+  right: 100px;
+  width: 170px;
+}
+
+@@ -67,7 +79,6 @@ color:#fff;}
+  cursor: pointer;
+  opacity: 0.8;
+  position: fixed;
+  right: 0px;
+  width:100px;
+
+}
+@@ -132,8 +143,7 @@ a,
+    border-radius: 0px;
+    font-size: 14px;
+    padding: 0px 15px;
+    height: 30px;
+    line-height: 30px;
+
+}
+a:focus,
+.btn:focus {
